@@ -1,0 +1,17 @@
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS "CreateNumericField" (
+	"Field1"	NUMERIC
+);
+CREATE TABLE IF NOT EXISTS "CreateRealField" (
+	"Field1"	REAL
+);
+CREATE TABLE IF NOT EXISTS "CreateBlobField" (
+	"Field1"	BLOB
+);
+CREATE TABLE IF NOT EXISTS "CreateTextField" (
+	"Field1"	TEXT
+);
+CREATE TABLE IF NOT EXISTS "CreateIntegerField" (
+	"Field1"	INTEGER
+);
+COMMIT;
