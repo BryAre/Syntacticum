@@ -3,9 +3,10 @@
 # **Project Syntactic** #
 
 Project Syntactic Syntax
-- New section: **# NEW SECTION (file type/acronym expansion)#**
-- New sub-section: **###### NEW SUB-SECTION**
-- New item: **- New ITEM**
+- New section: **`# NEW SECTION (file type / acronym expansion) #`**
+- New sub-section: **`###### "NEW SUB-SECTION" `**
+- New item: **`- "NEW ITEM" `**
+- Highlight Syntax: **` ```HIGHLIGHT CODE``` `**
 
 <!--- ********************** Syntactic End  **********************--->
 
