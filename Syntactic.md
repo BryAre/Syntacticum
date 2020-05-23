@@ -4,15 +4,15 @@
 
 Project Syntactic Syntax
 ```
-- New section:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`# NEW SECTION (file type / acronym expansion) #`**
-- New sub-section:&nbsp;&nbsp;**`###### "NEW SUB-SECTION" `**
-- New item:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`- "NEW ITEM" `**
-- Highlight Syntax:&nbsp;**` ```HIGHLIGHT CODE``` `**
+- New section:      **`# NEW SECTION (file type / acronym expansion) #`**
+- New sub-section:  **`###### "NEW SUB-SECTION" `**
+- New item:         **`- "NEW ITEM" `**
+- Highlight Syntax: **` ```HIGHLIGHT CODE``` `**
 ```
 
 ### Table of Contents
 * [Git](#git)
-* [HTML](#html)
+* [HTML (HyperText Markup Language)](#html)
 * [Markdown](#markdown)
 * [NPM (Node Package Manager)](#npm)
 * [Terminal](#terminal)
