@@ -2,11 +2,12 @@
 
 
 
+***
 
-## HTML
+# HTML
 
-### Comments
-- <!-- This is an HTML Comment -->
+## Comments
+- <!--- This is an HTML Comment --->
 
 ### Headings
 
@@ -23,7 +24,7 @@
 
 
 
-
+***
 
 ## Markdown
 
@@ -36,7 +37,13 @@
 - ##### Heading level 5
 - ###### Heading level 6
 
+### Horizontal Rules
 
+- ***
+- ___
+- \---
+
+***
 
 ## NPM (Node Package Manager)
 
