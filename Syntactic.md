@@ -40,34 +40,36 @@ Project Syntactic Syntax
 # HTML (.html) #
 
 ###### Comments
-- \<!--- This is an HTML Comment --->
+- ```<!--- This is an HTML Comment --->```
 
 ###### Headings
 
-- \<h1>This is Heading level 1\</h1>
-- \<h2>This is Heading level 2\</h2>
-- \<h3>This is Heading level 3\</h3>
-- \<h4>This is Heading level 4\</h4>
-- \<h5>This is Heading level 5\</h5>
-- \<h6>This is Heading level 6\</h6>
+```
+<h1>This is Heading level 1</h1>
+<h2>This is Heading level \</h2>
+<h3>This is Heading level 3</h3>
+<h4>This is Heading level 4</h4>
+<h5>This is Heading level 5</h5>
+<h6>This is Heading level 6</h6>
+```
 
 ###### Ordered List
-
--   \<ol> 
--       \<li>Ordered Item One\</li>
--       \<li>Ordered Item Two\</li>
--       \<li>Ordered Item Three\</li>
--       \<ol>
--           \<li>Ordered Sub-Item One\</li>
--           \<li>Ordered Sub-Item Two\</li>
--      \</ol>
--      \<li>Ordered Item Three\</li>
--  \</ol>
-
+```
+<ol> 
+    <li>Ordered Item One</li>
+    <li>Ordered Item Two</li>
+    <li>Ordered Item Three</li>
+    <ol>
+        <li>Ordered Sub-Item One</li>
+        <li>Ordered Sub-Item Two</li>
+    </ol>
+    <li>Ordered Item Three</li>
+</ol>
+```
 
 ###### Paragraphs
 
-- \<p>This is a paragraph.\</p>
+- ```<p>This is a paragraph.</p>```
 
 <!--- ********************** HTML END  **********************--->
 
@@ -81,18 +83,20 @@ Project Syntactic Syntax
 
 ###### Headings
 
-- \# Heading level 1
-- \## Heading level 2
-- \### Heading level 3
-- \#### Heading level 4
-- \##### Heading level 5
-- \###### Heading level 6
+```
+# Heading level 1
+## Heading level 2
+### Heading level 3
+#### Heading level 4
+##### Heading level 5
+###### Heading level 6
+```
 
 ###### Horizontal Rules
 
-```***```
-```___```
-```---```
+- ```***```
+- ```___```
+- ```---```
 
 ###### Ordered List
 ```
@@ -107,11 +111,11 @@ Project Syntactic Syntax
 ###### Unordered List
 ```
 - Unordered Item One
-    - Unordered Item Two
-    - Unordered Item Three
+- Unordered Item Two
+- Unordered Item Three
     - Unordered Sub-Item One
     - Unordered Sub-Item One
-    - Unordered Item Four
+- Unordered Item Four
 ```
 
 <!--- ********************** Markdown END  **********************--->
