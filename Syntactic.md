@@ -3,10 +3,17 @@
 # **Project Syntactic** #
 
 Project Syntactic Syntax
-- New section: **`# NEW SECTION (file type / acronym expansion) #`**
-- New sub-section: **`###### "NEW SUB-SECTION" `**
-- New item: **`- "NEW ITEM" `**
+- New section:      **`# NEW SECTION (file type / acronym expansion) #`**
+- New sub-section:  **`###### "NEW SUB-SECTION" `**
+- New item:         **`- "NEW ITEM" `**
 - Highlight Syntax: **` ```HIGHLIGHT CODE``` `**
+
+### Table of Contents
+* [Git](#git)
+* [HTML](#html)
+* [Markdown](#markdown)
+* [NPM (Node Package Manager)](#npm)
+* [Terminal](#terminal)
 
 <!--- ********************** Syntactic End  **********************--->
 
@@ -15,6 +22,7 @@ Project Syntactic Syntax
 
 
 <!--- ********************** Git START **********************--->
+<a name="git"></a>
 
 # Git
 
@@ -37,6 +45,7 @@ Project Syntactic Syntax
 
 
 <!--- ********************** HTML START  **********************--->
+<a name="html"></a>
 
 # HTML (.html) #
 
@@ -79,6 +88,7 @@ Project Syntactic Syntax
 
 
 <!--- ********************** Markdown START  **********************--->
+<a name="markdown"></a>
 
 # Markdown (.md) #
 
@@ -126,6 +136,7 @@ Project Syntactic Syntax
 
 
 <!--- ********************** NPM START  **********************--->
+<a name="npm"></a>
 
 # NPM (Node Package Manager) #
 
@@ -136,6 +147,7 @@ Project Syntactic Syntax
 
 
 <!--- ********************** Terminal START  **********************--->
+<a name="terminal"></a>
 
 # Terminal #
 
