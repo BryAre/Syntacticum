@@ -8,7 +8,7 @@
 # **Git**
 
 ###### Clone
-- git clone https://github.com/<user-name>/<repo-name>.git
+- git clone https://github.com/user-name/repo-name.git
 
 ###### Commit
 - git commit -m "Your message for the commit goes here."
@@ -17,7 +17,7 @@
 - git pull 
 
 ###### Push
-- git push <repo-name> <branch-name>
+- git push repo-name branch-name
 
 # HTML (.html) #
 
@@ -58,3 +58,25 @@
 
 # NPM (Node Package Manager) #
 
+# Terminal #
+
+###### Change Directory
+- cd "path/to/directory/"
+
+###### Clear Terminal
+- clear
+
+###### Create Directory
+- mkdir "path/to/new/directory"
+
+###### Listing Directory
+- ls **OR** ls "path/to/directory/"
+
+###### Move file
+- mv "filename" "path/to/new/location"
+
+###### Open File
+- open "filename"
+
+###### Rename File
+- mv "path/to/filename" "path/to/new/filename"
