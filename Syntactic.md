@@ -3,10 +3,12 @@
 # **Project Syntactic** #
 
 Project Syntactic Syntax
-- New section:      **`# NEW SECTION (file type / acronym expansion) #`**
-- New sub-section:  **`###### "NEW SUB-SECTION" `**
-- New item:         **`- "NEW ITEM" `**
-- Highlight Syntax: **` ```HIGHLIGHT CODE``` `**
+```
+- New section:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`# NEW SECTION (file type / acronym expansion) #`**
+- New sub-section:&nbsp;&nbsp;**`###### "NEW SUB-SECTION" `**
+- New item:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`- "NEW ITEM" `**
+- Highlight Syntax:&nbsp;**` ```HIGHLIGHT CODE``` `**
+```
 
 ### Table of Contents
 * [Git](#git)
@@ -56,7 +58,7 @@ Project Syntactic Syntax
 
 ```
 <h1>This is Heading level 1</h1>
-<h2>This is Heading level \</h2>
+<h2>This is Heading level 2</h2>
 <h3>This is Heading level 3</h3>
 <h4>This is Heading level 4</h4>
 <h5>This is Heading level 5</h5>
