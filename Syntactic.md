@@ -90,25 +90,29 @@ Project Syntactic Syntax
 
 ###### Horizontal Rules
 
-- \***
-- \___
-- \---
+```***```
+```___```
+```---```
 
 ###### Ordered List
--   1. \1. Ordered Item One
--   2. \2. Ordered Item Two
--   3. \3. Ordered Item Three
--       1. \1. Ordered Sub-Item One
--       2. \2. Ordered Sub-Item Two
--   4. \4. Ordered Item Four
+```
+1. Ordered Item One
+    2. Ordered Item Two
+    3. Ordered Item Three
+        1. Ordered Sub-Item One
+        2. Ordered Sub-Item Two
+    4. Ordered Item Four
+```
 
 ###### Unordered List
-- \- Unordered Item One
-- \- Unordered Item Two
-- \- Unordered Item Three
-    -    \- Unordered Sub-Item One
-    -    \- Unordered Sub-Item One
-- \- Unordered Item Four
+```
+- Unordered Item One
+    - Unordered Item Two
+    - Unordered Item Three
+    - Unordered Sub-Item One
+    - Unordered Sub-Item One
+    - Unordered Item Four
+```
 
 <!--- ********************** Markdown END  **********************--->
 
