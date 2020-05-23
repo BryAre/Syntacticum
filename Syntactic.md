@@ -54,15 +54,15 @@ Project Syntactic Syntax
 ###### Ordered List
 
 -   \<ol> 
-        \<li>Ordered Item One\</li>
-        \<li>Ordered Item Two\</li>
-        \<li>Ordered Item Three\</li>
-        \<ol>
-            \<li>Ordered Sub-Item One\</li>
-            \<li>Ordered Sub-Item Two\</li>
-        \</ol>
-        \<li>Ordered Item Three\</li>
-    \</ol>
+-       \<li>Ordered Item One\</li>
+-       \<li>Ordered Item Two\</li>
+-       \<li>Ordered Item Three\</li>
+-       \<ol>
+-           \<li>Ordered Sub-Item One\</li>
+-           \<li>Ordered Sub-Item Two\</li>
+-      \</ol>
+-      \<li>Ordered Item Three\</li>
+-  \</ol>
 
 
 ###### Paragraphs
@@ -95,12 +95,12 @@ Project Syntactic Syntax
 - \---
 
 ###### Ordered List
--   \1. Ordered Item One
-    \2. Ordered Item Two
-    \3. Ordered Item Three
-        \1. Ordered Sub-Item One
-        \2. Ordered Sub-Item One
-    \4. Ordered Item Four
+-   1. \1. Ordered Item One
+-   2. \2. Ordered Item Two
+-   3. \3. Ordered Item Three
+-       1. \1. Ordered Sub-Item One
+-       2. \2. Ordered Sub-Item Two
+-   4. \4. Ordered Item Four
 
 ###### Unordered List
 - \- Unordered Item One
