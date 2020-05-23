@@ -5,7 +5,7 @@
 Project Syntactic Syntax
 - New section: **# NEW SECTION (file type/acronym expansion)#**
 - New sub-section: **###### NEW SUB-SECTION**
-- New item: **- New Item**
+- New item: **- New ITEM**
 
 <!--- ********************** Syntactic End  **********************--->
 
@@ -51,6 +51,20 @@ Project Syntactic Syntax
 - \<h5>This is Heading level 5\</h5>
 - \<h6>This is Heading level 6\</h6>
 
+###### Ordered List
+
+-   <ol> 
+        <li>Ordered Item One
+        <li>Ordered Item Two
+        <li>Ordered Item Three
+        <ol>
+            <li>Ordered Sub-Item One</li>
+            <li>Ordered Sub-Item Two</li>
+        </ol>
+        <li>Ordered Item Three
+    <ol>
+
+
 ###### Paragraphs
 
 - \<p>This is a paragraph.\</p>
@@ -79,6 +93,22 @@ Project Syntactic Syntax
 - \***
 - \___
 - \---
+
+###### Ordered List
+- 1. Ordered Item One
+- 2. Ordered Item Two
+- 3. Ordered Item Three
+    - 1. Ordered Sub-Item One
+    - 2. Ordered Sub-Item One
+- 4. Ordered Item Four
+
+###### Unordered List
+- \- Unordered Item One
+- \- Unordered Item Two
+- \- Unordered Item Three
+        \- Unordered Sub-Item One
+        \- Unordered Sub-Item One
+- \- Unordered Item Four
 
 <!--- ********************** Markdown END  **********************--->
 
