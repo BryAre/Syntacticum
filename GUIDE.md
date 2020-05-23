@@ -1,12 +1,12 @@
- **A guide of syntaxes for technologies and programming languages listed in lexicographical order.**
-
-====
+ # **A guide of syntaxes for technologies and programming languages listed in lexicographical order.** #
 
 
-***
 
-**HTML**
-====
+
+
+
+# **HTML** #
+
 
 ###### Comments
 - \<!--- This is an HTML Comment --->
@@ -28,7 +28,7 @@
 
 ***
 
-**Markdown**
+# **Markdown** #
 
 ###### Headings
 
@@ -47,5 +47,5 @@
 
 ***
 
-**NPM (Node Package Manager)**
+# **NPM (Node Package Manager)** #
 
