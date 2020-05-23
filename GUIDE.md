@@ -6,12 +6,12 @@
 
 
 
-# **HTML**
+**HTML**
 
-## Comments
+###### Comments
 - \<!--- This is an HTML Comment --->
 
-### Headings
+###### Headings
 
 - <h1>Heading level 1</h1>
 - <h2>Heading level 2</h2>
@@ -20,7 +20,7 @@
 - <h5>Heading level 5</h5>
 - <h6>Heading level 6</h6>
 
-### Paragraphs
+###### Paragraphs
 
 - <p>This is a paragraph.</p>
 
@@ -28,9 +28,9 @@
 
 ***
 
-## Markdown
+**Markdown**
 
-### Headings
+###### Headings
 
 - # Heading level 1
 - ## Heading level 2
@@ -39,7 +39,7 @@
 - ##### Heading level 5
 - ###### Heading level 6
 
-### Horizontal Rules
+###### Horizontal Rules
 
 - \***
 - \___
@@ -47,5 +47,5 @@
 
 ***
 
-## NPM (Node Package Manager)
+**NPM (Node Package Manager)**
 
