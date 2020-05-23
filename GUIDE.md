@@ -1,12 +1,12 @@
-# ***A guide of syntaxes for technologies and programming languages listed in lexicographical order.***
+ **A guide of syntaxes for technologies and programming languages listed in lexicographical order.**
 
+====
 
 
 ***
 
-
-
 **HTML**
+====
 
 ###### Comments
 - \<!--- This is an HTML Comment --->
