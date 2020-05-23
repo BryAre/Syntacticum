@@ -1,13 +1,25 @@
  # **Project Syntactic** #
 
  Project Syntactic Syntax
- - New section: **# **\NEW SECTION (file type) \** #**
+ - New section: **# NEW SECTION (file type/acronym expansion)#**
  - New sub-section: **###### NEW SUB-SECTION**
  - New item: **- New Item**
 
-# **
+# **Git**
 
-# **HTML** (.html) #
+###### Clone
+- git clone https://github.com/<user-name>/<repo-name>.git
+
+###### Commit
+- git commit -m "Your message for the commit goes here."
+
+###### Pull
+- git pull 
+
+###### Push
+- git push <repo-name> <branch-name>
+
+# HTML (.html) #
 
 
 ###### Comments
@@ -27,7 +39,7 @@
 - \<p>This is a paragraph.\</p>
 
 
-# **Markdown** (.md) #
+# Markdown (.md) #
 
 ###### Headings
 
@@ -44,5 +56,5 @@
 - \___
 - \---
 
-# **NPM (Node Package Manager)** #
+# NPM (Node Package Manager) #
 
