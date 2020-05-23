@@ -4,10 +4,10 @@
 
 Project Syntactic Syntax
 
-- New section:      **`# NEW SECTION (file type / acronym expansion) #`**
-- New sub-section:  **`###### "NEW SUB-SECTION" `**
-- New item:         **`- "NEW ITEM" `**
-- Highlight Syntax: **` ```HIGHLIGHT CODE``` `**
+- New section:       **`# NEW SECTION (file type / acronym expansion) #`**
+- New sub-section:   **`###### "NEW SUB-SECTION" `**
+- New item:          **`- "NEW ITEM" `**
+- Highlight Syntax:  **` ```HIGHLIGHT CODE``` `**
 
 
 ### Table of Contents
