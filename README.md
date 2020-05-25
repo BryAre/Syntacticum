@@ -41,15 +41,13 @@ The purpose of this compendium is not to give examples of code using syntax, but
 # Git
 
 | Command &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|----|
-| Clone | `git clone https://github.com/user-name/repo-name.git`| Clone a repo. |
-| Commit | `git commit -m "Your message for the commit goes here."` | Commit your changes. |
-| Pull | `git pull`| Pull from a repo. |
-| Push | `git push repo-name branch-name`| Push your changes to a repo. |
+|----------------------------------|--------------------------------|-------------------------------------|
+| Clone  | `git clone https://github.com/user-name/repo-name.git`   | Clone a repo.                       |
+| Commit | `git commit -m "Your message for the commit goes here."` | Commit your changes.                |
+| Pull   | `git pull`                                               | Pull from a repo.                   |
+| Push   | `git push repo-name branch-name`                         | Push your changes to a repo.        |
 
-
-<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
-</div>
+<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
     
 <!-- ********************** Git END ********************** -->
 
@@ -63,20 +61,19 @@ The purpose of this compendium is not to give examples of code using syntax, but
 # HTML / Hypertext Markup Language (.html) #
 
 | Command &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|----|
-| Article |`<article>Article 1</article>` | Article section syntax for html. |
-| Comment |  `<!-- This is an HTML Comment -->` | Comment syntax for html. |
-| Footer  | `<footer>Footer 1</footer>` | Footer section syntax for html. |
-| Header  |`<header>Header 1</header>` | Header section syntax for html. |
-| Text Headers  |  `<h1>header 1</h1>` <br/> `<h2>header 2</h2>` <br/> `<h3>header 3</h3>` <br/> `<h4>header 4</h4>` <br/> `<h5>header 5</h5>` <br/> `<h6>header 6</h6>` | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6 |  
-| List Item | `<li>List Item</li>`| List item |
-| Main Section | `<main>Main 1</main>` | Main section syntax for html. |
-| Ordered List | `<ol>Ordered List</ol>`| Ordered list |
-| Paragraph | `<p>Paragraph 1</p>` | Paragraph syntax for html. |
-| Unordered List | `<ul>Unordered List</ul>`| Unordered list |
+|----------------------------------|--------------------------------|-------------------------------------|
+| Article                          | `<article>Article 1</article>` | Article section syntax for html.    |
+| Comment                          | `<!-- This is an HTML Comment -->` | Comment syntax for html.        |
+| Footer                           | `<footer>Footer 1</footer>`    | Footer section syntax for html.     |
+| Header                           | `<header>Header 1</header>`    | Header section syntax for html.     |
+| Text Headers                     | `<h1>header 1</h1>` <br/> `<h2>header 2</h2>` <br/> `<h3>header 3</h3>` <br/> `<h4>header 4</h4>` <br/> `<h5>header 5</h5>` <br/> `<h6>header 6</h6>`          | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6                                                                                                         |  
+| List Item                        | `<li>List Item</li>`           | List item                           |
+| Main Section                     | `<main>Main 1</main>`          | Main section syntax for html.       |
+| Ordered List                     | `<ol>Ordered List</ol>`        | Ordered list                        |
+| Paragraph                        | `<p>Paragraph 1</p>`           | Paragraph syntax for html.          |
+| Unordered List                   | `<ul>Unordered List</ul>`      | Unordered list                      |
 
-<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
-</div>
+<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
     
 <!-- ********************** HTML END  ********************** -->
 
@@ -89,46 +86,11 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 # Markdown (.md / .markdown) #
 
-###### Headings
+| Command &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----------------------------------|--------------------------------|-------------------------------------|
+| Text Headers                     | `# header1` <br/> `## header2` <br/> `### header3` <br/> `#### header4` <br/> `##### header5` <br/> `###### header6`          | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6                                                                                                         | 
 
-```
-# Heading level 1
-## Heading level 2
-### Heading level 3
-#### Heading level 4
-##### Heading level 5
-###### Heading level 6
-```
-
-###### Horizontal Rules
-
-`***`
-`___`
-`---`
-
-###### Ordered List
-```
-1. Ordered Item One
-2. Ordered Item Two
-3. Ordered Item Three
-    1. Ordered Sub-Item One
-    2. Ordered Sub-Item Two
-4. Ordered Item Four
-```
-
-###### Unordered List
-```
-- Unordered Item One
-- Unordered Item Two
-- Unordered Item Three
-    - Unordered Sub-Item One
-    - Unordered Sub-Item One
-- Unordered Item Four
-```
-
-
-<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
-</div>
+<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
     
 <!-- ********************** Markdown END  ********************** -->
 
@@ -137,11 +99,10 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 
 <!-- ********************** NPM START  ********************** -->
+
 <a name="npm"></a>
 
 # NPM / Node Package Manager #
-
-
 
 <!-- ********************** NPM END  ********************** -->
 
@@ -154,53 +115,18 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 # Terminal #
 
-###### Change Directory
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`cd "path/to/directory/"` | Changes directory. |
+| Command &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----------------------------------|--------------------------------|-------------------------------------|
+| cd                               | `cd "path/to/directory/"`      | Changes directory.                  |
+| clear                            | `clear`                        | Clears your terminal.               |
+| echo                             | `echo "your string"`           | Repeat the input.                   |
+| ls                               | `ls **OR** ls "path/to/directory/"`| List current directory.         |
+| mkdir                            | `mkdir "path/to/new/directory"`| Make a directory.                   |
+| mv                               | `mv "filename" "path/to/new/location"`| Move a file.                 |
+| mv (rename file)                 | `mv "filename" "newfilename"`  | Rename a file.                      |
+| open                             | `open "filename"`              | Open a file.                        |
+| touch                            | `touch "filename.filetype"`    | Make a file.                        |
 
-###### Clear Terminal
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`clear` | Clears your terminal. |
-
-###### Echo
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`echo "your string"` | Repeat the input. |
-
-###### Listing Directory
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `ls **OR** ls "path/to/directory/"` | List current directory. |
-
-###### Make Directory
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`mkdir "path/to/new/directory"`| Make a directory. |
-
-###### Move File
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `mv "filename" "path/to/new/location"` | Move a file. |
-
-###### Open File
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `open "filename"` | Open a file.|
-
-###### Rename File
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `mv "path/to/filename" "path/to/new/filename"` | Rename a file.|
-
-###### Make File
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `touch "filename.filetype"` | Make a file. |
-
-
-<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
-</div>
+<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
     
 <!-- ********************** Terminal END  ********************** -->
