@@ -1,9 +1,9 @@
-<!-- ********************** Syntactic START  ********************** -->
+<!-- ********************** Syntacticum START  ********************** -->
 
-# **Project Syntactic** #
+# **Project Syntacticum** #
 
 ### Overview
-Project Syntactic is a compilation and guide of technologies and programming languages, and their respective syntax.
+Project Syntacticum is a compendium of various technologies and programming languages that documents their respective syntax.
 
 ### Syntax
 
@@ -20,7 +20,15 @@ Project Syntactic is a compilation and guide of technologies and programming lan
 * [NPM](#npm)
 * [Terminal](#terminal)
 
-<!-- ********************** Syntactic End  ********************** -->
+### Contributing Guidelines
+* Add only one definition in one pull request.
+* Pull request title format includes: [Syntax Name] -> [Section]
+    * Example: [For Loop] -> [Java]
+* Provide a reference for the syntax.
+    * Example: Link: https://www.w3schools.com/java/java_for_loop.asp
+
+
+<!-- ********************** Syntacticum End  ********************** -->
 
 
 
@@ -29,7 +37,6 @@ Project Syntactic is a compilation and guide of technologies and programming lan
 
 <a name="git"></a>
 # Git
-
 
 ###### Clone
 
@@ -43,6 +50,10 @@ Project Syntactic is a compilation and guide of technologies and programming lan
 ###### Push
 `git push repo-name branch-name`
 
+
+<div> align="right"> <b><a href="table-of-contents">⬆️ Back To Top</a></b>
+</div>
+    
 <!-- ********************** Git END ********************** -->
 
 
@@ -127,25 +138,14 @@ Project Syntactic is a compilation and guide of technologies and programming lan
 </ul>
 ```
 
-| Syntax | Output | Description | 
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 | -------|--------|-------------|
-| `<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
-|--------|--------|-------------|
-| `<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
-|--------|--------|-------------|
+| `html ``<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
+| `html``<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
 
-<table style = "width:100%">
-<tr>
-    <th>Description</th>
-    <th>Syntax</th>
-    <th>Ouput</th>
-</tr>        
-<tr>
-    <td>Header Level 1</td>
-    <td>`<h1>Header 1</h1>`</td>
-    <td><h1>Header 1</h1></td>
-</tr>    
-</table>
+
+<div> align="right"> <b><a href="table-of-contents">⬆️ Back To Top</a></b>
+</div>
     
 <!-- ********************** HTML END  ********************** -->
 
@@ -195,6 +195,10 @@ Project Syntactic is a compilation and guide of technologies and programming lan
 - Unordered Item Four
 ```
 
+
+<div> align="right"> <b><a href="table-of-contents">⬆️ Back To Top</a></b>
+</div>
+    
 <!-- ********************** Markdown END  ********************** -->
 
 
@@ -205,6 +209,8 @@ Project Syntactic is a compilation and guide of technologies and programming lan
 <a name="npm"></a>
 
 # NPM / Node Package Manager #
+
+
 
 <!-- ********************** NPM END  ********************** -->
 
@@ -244,4 +250,8 @@ Project Syntactic is a compilation and guide of technologies and programming lan
 ###### Make File
 `touch "filename.filetype"`
 
+
+<div> align="right"> <b><a href="table-of-contents">⬆️ Back To Top</a></b>
+</div>
+    
 <!-- ********************** Terminal END  ********************** -->
