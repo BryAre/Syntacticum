@@ -12,6 +12,7 @@ Project Syntacticum is a compendium of various technologies and programming lang
 - New item:               **`- "NEW ITEM" `**
 - Highlight Syntax:   **` ```HIGHLIGHT CODE``` `**
 
+<a name="table-of-contents"></a>
 
 ### Table of Contents
 * [Git](#git)
@@ -51,7 +52,7 @@ Project Syntacticum is a compendium of various technologies and programming lang
 `git push repo-name branch-name`
 
 
-<div align ="right"> <b><a href="table-of-contents">⬆️ Back To Top</a></b>
+<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
 </div>
     
 <!-- ********************** Git END ********************** -->
@@ -140,11 +141,11 @@ Project Syntacticum is a compendium of various technologies and programming lang
 
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 | -------|--------|-------------|
-| `html ``<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
-| `html``<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
+| `<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
+| `<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
 
 
-<div align ="right"> <b><a href="table-of-contents">⬆️ Back To Top</a></b>
+<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
 </div>
     
 <!-- ********************** HTML END  ********************** -->
@@ -196,7 +197,7 @@ Project Syntacticum is a compendium of various technologies and programming lang
 ```
 
 
-<div align ="right"> <b><a href="table-of-contents">⬆️ Back To Top</a></b>
+<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
 </div>
     
 <!-- ********************** Markdown END  ********************** -->
@@ -251,7 +252,7 @@ Project Syntacticum is a compendium of various technologies and programming lang
 `touch "filename.filetype"`
 
 
-<div align ="right"> <b><a href="table-of-contents">⬆️ Back To Top</a></b>
+<div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
 </div>
     
 <!-- ********************** Terminal END  ********************** -->
