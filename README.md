@@ -7,8 +7,8 @@ Project Syntacticum is a compendium of various technologies and programming lang
 
 ### Syntax
 
-- New section:            **`# NEW SECTION / acronym expansion (".filetype") #`**
-- New sub-section:   **`###### "NEW SUB-SECTION" `**
+- New section:          **`# NEW SECTION / acronym expansion (".filetype") #`**
+- New sub-section:  **`###### "NEW SUB-SECTION" `**
 - New item:               **`- "NEW ITEM" `**
 - Highlight Syntax:   **` ```HIGHLIGHT CODE``` `**
 
@@ -77,9 +77,6 @@ Project Syntacticum is a compendium of various technologies and programming lang
 </article>
 ```
 
-###### Comments
-`<!-- This is an HTML Comment -->`
-
 ###### Headings
 
 ```html
@@ -141,8 +138,16 @@ Project Syntacticum is a compendium of various technologies and programming lang
 
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 | -------|--------|-------------|
+|   COMMENTS    |
+| `<!-- This is an HTML Comment -->` | <!-- Comment 1 --> | Comment syntax for html. |
+|    HEADERS    |
 | `<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
 | `<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
+| `<h3>header 3</h3>` | <h2>Header 3</h2> | Header Level 3 |  
+| `<h4>header 4</h4>` | <h2>Header 4</h2> | Header Level 4 |  
+| `<h5>header 5</h5>` | <h2>Header 5</h2> | Header Level 5 |  
+| `<h6>header 6</h6>` | <h2>Header 6</h2> | Header Level 6 |  
+
 
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
