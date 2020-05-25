@@ -4,13 +4,18 @@
 
 ### Overview
 Project Syntacticum is a compendium of various technologies and programming languages that documents their respective syntax.
+The purpose of this compendium is not to give examples of code using syntax, but is to be used only to reference syntax.
 
 ### Syntax
 
 - New section:          **`# NEW SECTION / acronym expansion (".filetype") #`**
-- New sub-section:  **`###### "NEW SUB-SECTION" `**
 - New item:               **`- "NEW ITEM" `**
 - Highlight Syntax:   **` ```HIGHLIGHT CODE``` `**
+- New Table:   ```  ### Sub-section Table Name
+                    | Row Header 1 | Row Header 2 | 
+                    |----|----|----|
+                    | Row Data 1 | Row Data 2 |
+               ```
 
 <a name="table-of-contents"></a>
 
@@ -66,95 +71,37 @@ Project Syntacticum is a compendium of various technologies and programming lang
 
 # HTML / Hypertext Markup Language (.html) #
 
-###### Articles
-
-```html
-<article>
-    <h1>Article 1</h1>
-    <p>Paragraph 1 of Article 1</p>
-    <p>Paragraph 2 of Article 1</p>
-    <p>Paragraph 3 of Article 1</p>
-</article>
-```
-
-###### Headings
-
-```html
-<h1>This is Heading level 1</h1>
-<h2>This is Heading level 2</h2>
-<h3>This is Heading level 3</h3>
-<h4>This is Heading level 4</h4>
-<h5>This is Heading level 5</h5>
-<h6>This is Heading level 6</h6>
-```
-
-###### Main Content
-```html
-<main> 
-    <h1>Header 1 of main tag</h1>
-    <p>Paragraph 1 of main tag</p>
-
-    <article>
-        <h1>Article 1 of main tag</h1>
-        <p>Paragraph 1 of Article 1 of main tag</p>
-        <p>Paragraph 2 of Article 1 of main tag</p>
-        <p>Paragraph 3 of Article 1 of main tag</p>
-    </article>
-</main>
-```
-
-
-###### Ordered List
-```html
-<ol> 
-    <li>Ordered Item One</li>
-    <li>Ordered Item Two</li>
-    <li>Ordered Item Three</li>
-    <ol>
-        <li>Ordered Sub-Item One</li>
-        <li>Ordered Sub-Item Two</li>
-    </ol>
-    <li>Ordered Item Three</li>
-</ol>
-```
-
-###### Paragraphs
-
-`<p>This is a paragraph.</p>`
-
-
-
+### Articles
+| Syntax | Description | 
+|----|----|----|
+| `<article>Article 1</article>` | Article syntax for html. |
 
 ### Comments
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----|----|----|
-| `<!-- This is an HTML Comment -->` | \<!-- Comment 1 --> | Comment syntax for html. |
+| `<!-- This is an HTML Comment -->` | Comment syntax for html. |
 
 ### Headers
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----|----|----|
-| `<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
-| `<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
-| `<h3>header 3</h3>` | <h3>Header 3</h3> | Header Level 3 |  
-| `<h4>header 4</h4>` | <h4>Header 4</h4> | Header Level 4 |  
-| `<h5>header 5</h5>` | <h5>Header 5</h5> | Header Level 5 |  
-| `<h6>header 6</h6>` | <h6>Header 6</h6> | Header Level 6 |  
+| `<h1>header 1</h1>` | Header Level 1 |  
+| `<h2>header 2</h2>` | Header Level 2 |  
+| `<h3>header 3</h3>` | Header Level 3 |  
+| `<h4>header 4</h4>` | Header Level 4 |  
+| `<h5>header 5</h5>` | Header Level 5 |  
+| `<h6>header 6</h6>` | Header Level 6 |  
 
 ### Lists
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----|----|----|
-| `<ul>`                                    |   |
-|    `<li>Ordered Item One</li>`            |   |
-|    `<li>Ordered Item Two</li>`            |   |
-|    `<li>Ordered Item Three</li>`          |   |
-|    `<ul>`                                 |   |
-|        `<li>Ordered Sub-Item One</li>`    |   |
-|        `<li>Ordered Sub-Item Two</li>`    |   |
-|    `</ul>`                                |   |
-|    `<li>Ordered Item Three</li>`          |   |
-| `</ul>`                                   |   | 
-|                                           |   |
+| `<ol>Ordered List</ol>`| Ordered list |
+| `<ul>Unordered List</ul>`| Unordered list |
+| `<li>List Item</li>`| List item |
 
+### Paragraphs
+| Syntax | Description | 
+|----|----|----|
+| `<p>Paragraph 1</p>` | Paragraph syntax for html. |
 
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
