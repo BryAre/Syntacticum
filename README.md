@@ -122,8 +122,25 @@ Project Syntacticum is a compendium of various technologies and programming lang
 
 `<p>This is a paragraph.</p>`
 
-###### Unordered List
-```html
+
+
+
+### Comments
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+| `<!-- This is an HTML Comment -->` | \<!-- Comment 1 --> | Comment syntax for html. |
+
+### Headers
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+| `<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
+| `<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
+| `<h3>header 3</h3>` | <h3>Header 3</h3> | Header Level 3 |  
+| `<h4>header 4</h4>` | <h4>Header 4</h4> | Header Level 4 |  
+| `<h5>header 5</h5>` | <h5>Header 5</h5> | Header Level 5 |  
+| `<h6>header 6</h6>` | <h6>Header 6</h6> | Header Level 6 |  
+
+### Lists
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+| ```html
 <ul> 
     <li>Ordered Item One</li>
     <li>Ordered Item Two</li>
@@ -134,19 +151,7 @@ Project Syntacticum is a compendium of various technologies and programming lang
     </ul>
     <li>Ordered Item Three</li>
 </ul>
-```
-
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-| -------|--------|-------------|
-|   COMMENTS    |
-| `<!-- This is an HTML Comment -->` | <!-- Comment 1 --> | Comment syntax for html. |
-|    HEADERS    |
-| `<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
-| `<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
-| `<h3>header 3</h3>` | <h2>Header 3</h2> | Header Level 3 |  
-| `<h4>header 4</h4>` | <h2>Header 4</h2> | Header Level 4 |  
-| `<h5>header 5</h5>` | <h2>Header 5</h2> | Header Level 5 |  
-| `<h6>header 6</h6>` | <h2>Header 6</h2> | Header Level 6 |  
+```                               | 
 
 
 
