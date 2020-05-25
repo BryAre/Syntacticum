@@ -127,10 +127,12 @@ Project Syntacticum is a compendium of various technologies and programming lang
 
 ### Comments
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|----|
 | `<!-- This is an HTML Comment -->` | \<!-- Comment 1 --> | Comment syntax for html. |
 
 ### Headers
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|----|
 | `<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
 | `<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
 | `<h3>header 3</h3>` | <h3>Header 3</h3> | Header Level 3 |  
@@ -140,6 +142,7 @@ Project Syntacticum is a compendium of various technologies and programming lang
 
 ### Lists
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|----|
 | ```html
 <ul> 
     <li>Ordered Item One</li>
