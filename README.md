@@ -11,8 +11,7 @@ The purpose of this compendium is not to give examples of code using syntax, but
 - New section:          **`# NEW SECTION / acronym expansion (".filetype") #`**
 - New item:               **`- "NEW ITEM" `**
 - Highlight Syntax:   **` ```HIGHLIGHT CODE``` `**
-- New Table:  
-     ```  ### Sub-section Table Name
+- New Table:  ```  ### Sub-section Table Name
 <br>
     | Row Header 1 | Row Header 2 | 
 <br>
@@ -49,17 +48,27 @@ The purpose of this compendium is not to give examples of code using syntax, but
 <a name="git"></a>
 # Git
 
-###### Clone
 
-`git clone https://github.com/user-name/repo-name.git`
+###### Clone
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+|`git clone https://github.com/user-name/repo-name.git`| Clone a repo. |
+
 ###### Commit
-`git commit -m "Your message for the commit goes here."`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+|`git commit -m "Your message for the commit goes here."` | Commit your changes. |
 
 ###### Pull
-`git pull`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+|`git pull`| Pull from a repo. |
+
 
 ###### Push
-`git push repo-name branch-name`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+|`git push repo-name branch-name`| Push your changes to a repo. |
 
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
@@ -75,11 +84,6 @@ The purpose of this compendium is not to give examples of code using syntax, but
 <a name="html"></a>
 
 # HTML / Hypertext Markup Language (.html) #
-
-### Articles
-| Syntax | Description | 
-|----|----|
-| `<article>Article 1</article>` | Article syntax for html. |
 
 ### Comments
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
@@ -108,6 +112,13 @@ The purpose of this compendium is not to give examples of code using syntax, but
 |----|----|
 | `<p>Paragraph 1</p>` | Paragraph syntax for html. |
 
+### Semantic Tags
+| Syntax | Description | 
+|----|----|
+| `<article>Article 1</article>` | Article section syntax for html. |
+| `<footer>Footer 1</footer>` | Footer section syntax for html. |
+| `<header>Header 1</header>` | Header section syntax for html. |
+| `<main>Main 1</main>` | Main section syntax for html. |
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
 </div>
@@ -189,31 +200,49 @@ The purpose of this compendium is not to give examples of code using syntax, but
 # Terminal #
 
 ###### Change Directory
-`cd "path/to/directory/"`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+|`cd "path/to/directory/"` | Changes directory. |
 
 ###### Clear Terminal
-`clear`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+|`clear` | Clears your terminal. |
 
 ###### Echo
-`echo "your string"`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+|`echo "your string"` | Repeat the input. |
 
 ###### Listing Directory
-`ls **OR** ls "path/to/directory/"`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+| `ls **OR** ls "path/to/directory/"` | List current directory. |
 
 ###### Make Directory
-`mkdir "path/to/new/directory"`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+|`mkdir "path/to/new/directory"`| Make a directory. |
 
 ###### Move File
-`mv "filename" "path/to/new/location"`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+| `mv "filename" "path/to/new/location"` | Move a file. |
 
 ###### Open File
-`open "filename"`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+| `open "filename"` | Open a file.|
 
 ###### Rename File
-`mv "path/to/filename" "path/to/new/filename"`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+| `mv "path/to/filename" "path/to/new/filename"` | Rename a file.|
 
 ###### Make File
-`touch "filename.filetype"`
+| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----|----|
+| `touch "filename.filetype"` | Make a file. |
 
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
