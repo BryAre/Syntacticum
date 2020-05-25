@@ -143,18 +143,18 @@ Project Syntacticum is a compendium of various technologies and programming lang
 ### Lists
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Output&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----|----|----|
-| ```html
-<ul> 
-    <li>Ordered Item One</li>
-    <li>Ordered Item Two</li>
-    <li>Ordered Item Three</li>
-    <ul>
-        <li>Ordered Sub-Item One</li>
-        <li>Ordered Sub-Item Two</li>
-    </ul>
-    <li>Ordered Item Three</li>
-</ul>
-```                               | 
+| ```html                               |
+<ul>                                    |   <ul>
+    <li>Ordered Item One</li>           |       <li>Ordered Item One</li>
+    <li>Ordered Item Two</li>           |       <li>Ordered Item Two</li
+    <li>Ordered Item Three</li>         |       <li>Ordered Item Three</li>
+    <ul>                                |       <ul>
+        <li>Ordered Sub-Item One</li>   |           <li>Ordered Sub-Item One</li> 
+        <li>Ordered Sub-Item Two</li>   |           <li>Ordered Sub-Item Two</li>
+    </ul>                               |       </ul> 
+    <li>Ordered Item Three</li>         |       <li>Ordered Item Three</li>
+</ul>                                   |   </ul> 
+```                                     |
 
 
 
