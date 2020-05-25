@@ -44,12 +44,13 @@ The purpose of this compendium is not to give examples of code using syntax, but
 | Command &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----|----|----|
 | Clone | `git clone https://github.com/user-name/repo-name.git`| Clone a repo. |
-| <br/> | <br/> |
+| ____ | ____ | ____ |
 | Commit | `git commit -m "Your message for the commit goes here."` | Commit your changes. |
-| <br/> | <br/> |
+| ____ | ____ | ____ |
 | Pull | `git pull`| Pull from a repo. |
-| <br/> | <br/> |
+| ____ | ____ | ____ |
 | Push | `git push repo-name branch-name`| Push your changes to a repo. |
+| ____ | ____ | ____ |
 
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
