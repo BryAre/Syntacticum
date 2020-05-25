@@ -11,15 +11,7 @@ The purpose of this compendium is not to give examples of code using syntax, but
 - New section:          **`# NEW SECTION / acronym expansion (".filetype") #`**
 - New item:               **`- "NEW ITEM" `**
 - Highlight Syntax:   **` ```HIGHLIGHT CODE``` `**
-- New Table:  ```  ### Sub-section Table Name
-<br>
-    | Row Header 1 | Row Header 2 | 
-<br>
-    |----|----|
-<br>
-    | Row Data 1 | Row Data 2 |
-<br>
-    ```
+
 
 <a name="table-of-contents"></a>
 
@@ -50,25 +42,25 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 
 ###### Clone
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`git clone https://github.com/user-name/repo-name.git`| Clone a repo. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+`git clone https://github.com/user-name/repo-name.git` Clone a repo. 
 
 ###### Commit
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`git commit -m "Your message for the commit goes here."` | Commit your changes. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+`git commit -m "Your message for the commit goes here."`  Commit your changes. 
 
 ###### Pull
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`git pull`| Pull from a repo. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+`git pull` Pull from a repo. 
 
 
 ###### Push
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`git push repo-name branch-name`| Push your changes to a repo. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+`git push repo-name branch-name` Push your changes to a repo. 
 
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
@@ -86,39 +78,39 @@ The purpose of this compendium is not to give examples of code using syntax, but
 # HTML / Hypertext Markup Language (.html) #
 
 ### Comments
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `<!-- This is an HTML Comment -->` | Comment syntax for html. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+ `<!-- This is an HTML Comment -->`  Comment syntax for html. 
 
 ### Headers
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `<h1>header 1</h1>` | Header Level 1 |  
-| `<h2>header 2</h2>` | Header Level 2 |  
-| `<h3>header 3</h3>` | Header Level 3 |  
-| `<h4>header 4</h4>` | Header Level 4 |  
-| `<h5>header 5</h5>` | Header Level 5 |  
-| `<h6>header 6</h6>` | Header Level 6 |  
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+ `<h1>header 1</h1>`  Header Level 1   
+ `<h2>header 2</h2>`  Header Level 2   
+ `<h3>header 3</h3>`  Header Level 3   
+ `<h4>header 4</h4>`  Header Level 4   
+ `<h5>header 5</h5>`  Header Level 5   
+ `<h6>header 6</h6>`  Header Level 6   
 
 ### Lists
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `<ol>Ordered List</ol>`| Ordered list |
-| `<ul>Unordered List</ul>`| Unordered list |
-| `<li>List Item</li>`| List item |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+ `<ol>Ordered List</ol>` Ordered list 
+ `<ul>Unordered List</ul>` Unordered list 
+ `<li>List Item</li>` List item 
 
 ### Paragraphs
-| Syntax | Description | 
-|----|----|
-| `<p>Paragraph 1</p>` | Paragraph syntax for html. |
+ Syntax  Description  
+--------
+ `<p>Paragraph 1</p>`  Paragraph syntax for html. 
 
 ### Semantic Tags
-| Syntax | Description | 
-|----|----|
-| `<article>Article 1</article>` | Article section syntax for html. |
-| `<footer>Footer 1</footer>` | Footer section syntax for html. |
-| `<header>Header 1</header>` | Header section syntax for html. |
-| `<main>Main 1</main>` | Main section syntax for html. |
+ Syntax  Description  
+--------
+ `<article>Article 1</article>`  Article section syntax for html. 
+ `<footer>Footer 1</footer>`  Footer section syntax for html. 
+ `<header>Header 1</header>`  Header section syntax for html. 
+ `<main>Main 1</main>`  Main section syntax for html. 
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
 </div>
@@ -200,49 +192,49 @@ The purpose of this compendium is not to give examples of code using syntax, but
 # Terminal #
 
 ###### Change Directory
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`cd "path/to/directory/"` | Changes directory. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+`cd "path/to/directory/"`  Changes directory. 
 
 ###### Clear Terminal
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`clear` | Clears your terminal. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+`clear`  Clears your terminal. 
 
 ###### Echo
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`echo "your string"` | Repeat the input. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+`echo "your string"`  Repeat the input. 
 
 ###### Listing Directory
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `ls **OR** ls "path/to/directory/"` | List current directory. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+ `ls **OR** ls "path/to/directory/"`  List current directory. 
 
 ###### Make Directory
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-|`mkdir "path/to/new/directory"`| Make a directory. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+`mkdir "path/to/new/directory"` Make a directory. 
 
 ###### Move File
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `mv "filename" "path/to/new/location"` | Move a file. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+ `mv "filename" "path/to/new/location"`  Move a file. 
 
 ###### Open File
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `open "filename"` | Open a file.|
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+ `open "filename"`  Open a file.
 
 ###### Rename File
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `mv "path/to/filename" "path/to/new/filename"` | Rename a file.|
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+ `mv "path/to/filename" "path/to/new/filename"`  Rename a file.
 
 ###### Make File
-| Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|
-| `touch "filename.filetype"` | Make a file. |
+ Syntax &nbsp;&nbsp;&nbsp;&nbsp; Description&nbsp;&nbsp;&nbsp;&nbsp;  
+--------
+ `touch "filename.filetype"`  Make a file. 
 
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b>
