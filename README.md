@@ -11,11 +11,16 @@ The purpose of this compendium is not to give examples of code using syntax, but
 - New section:          **`# NEW SECTION / acronym expansion (".filetype") #`**
 - New item:               **`- "NEW ITEM" `**
 - Highlight Syntax:   **` ```HIGHLIGHT CODE``` `**
-- New Table:   ```  ### Sub-section Table Name
-                    | Row Header 1 | Row Header 2 | 
-                    |----|----|----|
-                    | Row Data 1 | Row Data 2 |
-               ```
+- New Table:  
+     ```  ### Sub-section Table Name
+<br>
+    | Row Header 1 | Row Header 2 | 
+<br>
+    |----|----|
+<br>
+    | Row Data 1 | Row Data 2 |
+<br>
+    ```
 
 <a name="table-of-contents"></a>
 
@@ -73,17 +78,17 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 ### Articles
 | Syntax | Description | 
-|----|----|----|
+|----|----|
 | `<article>Article 1</article>` | Article syntax for html. |
 
 ### Comments
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|----|
+|----|----|
 | `<!-- This is an HTML Comment -->` | Comment syntax for html. |
 
 ### Headers
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|----|
+|----|----|
 | `<h1>header 1</h1>` | Header Level 1 |  
 | `<h2>header 2</h2>` | Header Level 2 |  
 | `<h3>header 3</h3>` | Header Level 3 |  
@@ -93,14 +98,14 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 ### Lists
 | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
-|----|----|----|
+|----|----|
 | `<ol>Ordered List</ol>`| Ordered list |
 | `<ul>Unordered List</ul>`| Unordered list |
 | `<li>List Item</li>`| List item |
 
 ### Paragraphs
 | Syntax | Description | 
-|----|----|----|
+|----|----|
 | `<p>Paragraph 1</p>` | Paragraph syntax for html. |
 
 
