@@ -25,15 +25,15 @@ Project Syntactic is a compilation and guide of technologies and programming lan
 
 
 
-
 <!-- ********************** Git START ********************** -->
-<a name="git"></a>
 
+<a name="git"></a>
 # Git
 
-###### Clone
-`git clone https://github.com/user-name/repo-name.git`
 
+###### Clone
+
+`git clone https://github.com/user-name/repo-name.git`
 ###### Commit
 `git commit -m "Your message for the commit goes here."`
 
@@ -130,7 +130,23 @@ Project Syntactic is a compilation and guide of technologies and programming lan
 | Syntax | Output | Description | 
 | -------|--------|-------------|
 | `<h1>header 1</h1>` | <h1>Header 1</h1> | Header Level 1 |  
+|--------|--------|-------------|
 | `<h2>header 2</h2>` | <h2>Header 2</h2> | Header Level 2 |  
+|--------|--------|-------------|
+
+<table style = "width:100%">
+<tr>
+    <th>Description</th>
+    <th>Syntax</th>
+    <th>Ouput</th>
+</tr>        
+<tr>
+    <td>Header Level 1</td>
+    <td>`<h1>Header 1</h1>`</td>
+    <td><h1>Header 1</h1></td>
+</tr>    
+</table>
+    
 <!-- ********************** HTML END  ********************** -->
 
 
