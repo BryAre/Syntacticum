@@ -89,7 +89,7 @@ The purpose of this compendium is not to give examples of code using syntax, but
 | Command &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----------------------------------|--------------------------------|-------------------------------------|
 | Text Headers                     | `# header1` <br/> `## header2` <br/> `### header3` <br/> `#### header4` <br/> `##### header5` <br/> `###### header6`          | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6                                                                                                   | 
-| Horizontal Line                  | `***`                          | Makes a horizontal line.            |
+| Horizontal Line                  | `***`  <br/> `---`             | Makes a horizontal line.            |
 
 
 
