@@ -135,8 +135,7 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 | Package &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----------------------------------|--------------------------------|-------------------------------------|
-| install homebrew <br/> install homebrew pyenv pkg <br/> install homebrew sqlite pkg <br/> install homebrew zlib pkg 
-                                   | `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br/> `brew install pyenv` <br/> `brew install sqlite` <br/> `brew install zlib`                                           | Installs homebrew. <br/> Installs pyenv package w/ homebrew. <br/> Installs sqlite package w/ homebrew. <br/> Installs zlib package w/ homebrew.             |
+| install homebrew <br/> install homebrew pyenv pkg <br/> install homebrew sqlite pkg <br/> install homebrew zlib pkg | `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br/> `brew install pyenv` <br/> `brew install sqlite` <br/> `brew install zlib` | Installs homebrew. <br/> Installs pyenv package w/ homebrew. <br/> Installs sqlite package w/ homebrew. <br/> Installs zlib package w/ homebrew.                                             |
 | xcode cli                        | `xcode-select --install`       | Installs xcode CLI.                 |
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
