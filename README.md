@@ -65,7 +65,8 @@ The purpose of this compendium is not to give examples of code using syntax, but
 | Article                          | `<article>Article 1</article>` | Article section syntax for html.    |
 | Comment                          | `<!-- This is an HTML Comment -->` | Comment syntax for html.        |
 | Footer                           | `<footer>Footer 1</footer>`    | Footer section syntax for html.     |
-| Header                           | `<header>Header 1</header>`    | Header section syntax for html.     |
+| Header                           | `<header>Header 1</header>`    | Header section syntax for html.     |    
+| Image                            | `<img src="image/path/here"    | Image syntax for html.
 | Text Headers                     | `<h1>header 1</h1>` <br/> `<h2>header 2</h2>` <br/> `<h3>header 3</h3>` <br/> `<h4>header 4</h4>` <br/> `<h5>header 5</h5>` <br/> `<h6>header 6</h6>`          | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6                                                                                                         |  
 | List Item                        | `<li>List Item</li>`           | List item                           |
 | Main Section                     | `<main>Main 1</main>`          | Main section syntax for html.       |
