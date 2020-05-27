@@ -67,17 +67,7 @@ The purpose of this compendium is not to give examples of code using syntax, but
 | Footer                           | `<footer>Footer 1</footer>`    | Footer section syntax for html.     |
 | Header                           | `<header>Header 1</header>`    | Header section syntax for html.     |    
 | Image                            | `<img src="image/path/here"    | Image syntax for html.
-| Text Headers                     | `<h1>header 1</h1>` <br/> 
-                                     `<h2>header 2</h2>` <br/> 
-                                     `<h3>header 3</h3>` <br/> 
-                                     `<h4>header 4</h4>` <br/> 
-                                     `<h5>header 5</h5>` <br/> 
-                                     `<h6>header 6</h6>`            | Header Level 1 <br/> 
-                                                                      Header Level 2 <br/> 
-                                                                      Header Level 3 <br/> 
-                                                                      Header Level 4 <br/> 
-                                                                      Header Level 5 <br/> 
-                                                                      Header Level 6                                                                                                                                                     |  
+| Text Headers                     | `<h1>header 1</h1>` <br/> `<h2>header 2</h2>` <br/> `<h3>header 3</h3>` <br/> `<h4>header 4</h4>` <br/> `<h5>header 5</h5>` <br/> `<h6>header 6</h6>`         | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6                                            |  
 | List Item                        | `<li>List Item</li>`           | List item                           |
 | Main Section                     | `<main>Main 1</main>`          | Main section syntax for html.       |
 | Ordered List                     | `<ol>Ordered List</ol>`        | Ordered list                        |
@@ -99,18 +89,7 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 | Command &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----------------------------------|--------------------------------|-------------------------------------|
-| Text Headers                     | `# header1` <br/> 
- `## header2` <br/> 
- `### header3` <br/> 
- `#### header4` <br/> 
- `##### header5` <br/> 
- `###### header6`              
- | Header Level 1 <br/> 
-    Header Level 2 <br/> 
-    Header Level 3 <br/> 
-    Header Level 4 <br/> 
-    Header Level 5 <br/> 
-    Header Level 6                                                                                                                                    | 
+| Text Headers                     | `# header1` <br/> `## header2` <br/> `### header3` <br/> `#### header4` <br/> `##### header5` <br/> `###### header6`                                     | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6                                            | 
 | Horizontal Line                  | `***`  <br/> `---` <br/> `___` | Makes a horizontal line.            |
 
 
