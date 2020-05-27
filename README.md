@@ -66,9 +66,10 @@ The purpose of this compendium is not to give examples of code using syntax, but
 | Comment                          | `<!-- This is an HTML Comment -->` | Comment syntax for html.        |
 | Footer                           | `<footer>Footer 1</footer>`    | Footer section syntax for html.     |
 | Header                           | `<header>Header 1</header>`    | Header section syntax for html.     |    
-| Image                            | `<img src="image/path/here"    | Image syntax for html.
-| Text Headers                     | `<h1>header 1</h1>` <br/> `<h2>header 2</h2>` <br/> `<h3>header 3</h3>` <br/> `<h4>header 4</h4>` <br/> `<h5>header 5</h5>` <br/> `<h6>header 6</h6>`         | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6                                            |  
+| Image                            | `<img src="image/path/here">`  | Image syntax for html.              |
+| Text Headers                     | `<h1>header 1</h1>` <br/> `<h2>header 2</h2>` <br/> `<h3>header 3</h3>` <br/> `<h4>header 4</h4>` <br/> `<h5>header 5</h5>` <br/> `<h6>header 6</h6>`         | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6                                            |
 | List Item                        | `<li>List Item</li>`           | List item                           |
+| Link                             | `<a name="link name"></a>`     |                                     |
 | Main Section                     | `<main>Main 1</main>`          | Main section syntax for html.       |
 | Ordered List                     | `<ol>Ordered List</ol>`        | Ordered list                        |
 | Paragraph                        | `<p>Paragraph 1</p>`           | Paragraph syntax for html.          |
@@ -134,12 +135,14 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 | Package &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----------------------------------|--------------------------------|-------------------------------------|
-| install homebrew                 | `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`| Installs homebrew.                  |
-| install homebrew pyenv pkg       | `brew install pyenv`           | Installs pyenv package w/ homebrew. |
-| install homebrew sqlite pkg      | `brew install sqlite`          | Installs sqlite package w/ homebrew.|
-| install homebrew zlib pkg        | `brew install zlib`            | Installs zlib package w/ homebrew.  |
+| install homebrew <br/> install homebrew pyenv pkg <br/> install homebrew sqlite pkg <br/> install homebrew zlib pkg 
+                                   | `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br/> `brew install pyenv` <br/> `brew install sqlite` <br/> `brew install zlib`                                           | Installs homebrew. <br/> Installs pyenv package w/ homebrew. <br/> Installs sqlite package w/ homebrew. <br/> Installs zlib package w/ homebrew.             |
 | xcode cli                        | `xcode-select --install`       | Installs xcode CLI.                 |
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
     
+ <!-- | install homebrew pyenv pkg       | `brew install pyenv`           | Installs pyenv package w/ homebrew. |
+| install homebrew sqlite pkg      | `brew install sqlite`          | Installs sqlite package w/ homebrew.|
+| install homebrew zlib pkg        | `brew install zlib`            | Installs zlib package w/ homebrew.  | -->
+
 <!-- ********************** Terminal END  ********************** -->
