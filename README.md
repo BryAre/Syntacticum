@@ -121,7 +121,8 @@ The purpose of this compendium is not to give examples of code using syntax, but
 
 | Command &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
 |----------------------------------|--------------------------------|-------------------------------------|
-| cd                               | `cd "path/to/directory/"`      | Changes directory.                  |
+| cd                               | `cd`                           | Brings you to home directory.       |
+| cd w/ path                       | `cd "path/to/directory/"`      | Brings you to a specified directory.|
 | clear                            | `clear`                        | Clears your terminal.               |
 | echo                             | `echo "your string"`           | Repeat the input.                   |
 | ls                               | `ls **OR** ls "path/to/directory/"`| List current directory.         |
@@ -130,6 +131,11 @@ The purpose of this compendium is not to give examples of code using syntax, but
 | mv (rename file)                 | `mv "filename" "newfilename"`  | Rename a file.                      |
 | open                             | `open "filename"`              | Open a file.                        |
 | touch                            | `touch "filename.filetype"`    | Make a file.                        |
+
+| Package &nbsp;&nbsp;&nbsp;&nbsp; | Syntax &nbsp;&nbsp;&nbsp;&nbsp;| Description&nbsp;&nbsp;&nbsp;&nbsp; | 
+|----------------------------------|--------------------------------|-------------------------------------|
+| install homebrew                 | ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" | Installs homebrew.                                                                                      |
+| xcode cli                        | xcode-select --install         | Installs xcode CLI.                 |
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
     
