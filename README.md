@@ -10,7 +10,7 @@ Project Syntacticum is a compendium of various technologies and programming lang
 syntax. The purpose of this compendium is not to give examples of code using syntax, but is to be used only to reference 
 syntax.
 
-
+Checking if this work.
 ### Syntax
 
 - New section:          **`# NEW SECTION / acronym expansion (".filetype") #`**
