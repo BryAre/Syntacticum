@@ -162,7 +162,7 @@ syntax.
 |----------------------------------------|----------------------------------------|
 | `<!-- This is an HTML Comment -->`     | Comment syntax for html.               |
 | `<img src="image/path/here">`          | Image syntax for html.                 |
-| `<a name="link name">"anchor text</a>` | Creates a link with specified anchor text. |
+| `<a name="link name">anchor text</a>`  | Creates a link.                        |
 | `<p>Paragraph 1</p>`                   | Paragraph syntax for html.             |
 |                             <br/> **HEADERS** <br/> <br/>                       |
 | `<h1>header 1</h1>`                    | Header Level 1                         |
@@ -303,7 +303,7 @@ syntax.
 |----------------------------------------|----------------------------------------|
 |                             <br/> **GENERAL** <br/> <br/>                       |
 | `clear`                                | Clears your terminal.                  |
-| `curl -O "file-url`                    | Download file from a given url         |
+| `curl -O "file-url"`                    | Download file from a given url        |
 | `kill "pid"`                           | Kills the process with given id.       |
 | `top`                                  | Shows all running processes.           |
 |                           <br/> **DIRECTORIES** <br/> <br/>                     |
