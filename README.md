@@ -10,7 +10,7 @@ Project Syntacticum is a compendium of various technologies and programming lang
 syntax. The purpose of this compendium is not to give examples of code using syntax, but is to be used only to reference 
 syntax.
 
-Checking if this work.
+
 ### Syntax
 
 - New section:          **`# NEW SECTION / acronym expansion (".filetype") #`**
@@ -136,18 +136,18 @@ Checking if this work.
 | `<img src="image/path/here">`          | Image syntax for html.                 |
 | `<a name="link name">"anchor text</a>` | Creates a link with specified anchor text. |
 | `<p>Paragraph 1</p>`                   | Paragraph syntax for html.             |
-|                                    **HEADERS** <br/>                            |
+|                             <br/> **HEADERS** <br/>                             |
 | `<h1>header 1</h1>`                    | Header Level 1                         |
 | `<h2>header 2</h2>`                    | Header Level 1                         |
 | `<h3>header 3</h3>`                    | Header Level 1                         |
 | `<h4>header 4</h4>`                    | Header Level 1                         |
 | `<h5>header 5</h5>`                    | Header Level 1                         |
 | `<h6>header 6</h6>`                    | Header Level 1                         |
-|                                    **LISTS** <br/>                              |
+|                              <br/> **LISTS** <br/>                              |
 | `<li>List Item</li>`                   | List item                              |
 | `<ol>Ordered List</ol>`                | Ordered list                           |
 | `<ul>Unordered List</ul>`              | Unordered list                         |
-|                                 **SEMANTIC TAGS** <br/>                         |
+|                            <br/> **SEMANTIC TAGS** <br/>                        |
 | `<article>Article 1</article>`         | Article section syntax for html.       |
 | `<footer>Footer 1</footer>`            | Footer section syntax for html.        |
 | `<header>Header 1</header>`            | Header section syntax for html.        |    
