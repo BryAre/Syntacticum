@@ -108,6 +108,10 @@ syntax.
 
 # Git
 
+<br/>
+<br/>
+<br/>
+
 | Syntax                                 | Description                            |
 |----------------------------------------|----------------------------------------|
 | `git init`                             | Initialize a git repository.           |
@@ -116,6 +120,10 @@ syntax.
 | `git pull`                             | Pull from a repo.                      |
 | `git push "repo-name" "branch-name"`   | Push your changes to a repo.           |
 | `git remote show origin`               | Shows the url of the cloned repository.|
+
+<br/>
+<br/>
+<br/>
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
     
@@ -129,6 +137,10 @@ syntax.
 <a name="html"></a>
 
 # HTML #
+
+<br/>
+<br/>
+<br/>
 
 | Command                                | Description                            |
 |----------------------------------------|----------------------------------------|
@@ -153,8 +165,9 @@ syntax.
 | `<header>Header 1</header>`            | Header section syntax for html.        |    
 | `<main>Main 1</main>`                  | Main section syntax for html.          |
 
-
-
+<br/>
+<br/>
+<br/>
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
     
@@ -176,8 +189,8 @@ syntax.
 
 | Command                                | Description                            |
 |----------------------------------------|----------------------------------------|
-| `javac "filename.java"`                | Compiles java file, creates class file.|
 | `java "class-name"`                    | Runs program with the given class name.|
+| `javac "filename.java"`                | Compiles java file, creates class file.|
 
 <br/>
 <br/>
@@ -203,14 +216,14 @@ syntax.
 
 | Command                                | Description                            |
 |----------------------------------------|----------------------------------------|
-|                                    **HEADERS**                                  |
+|                             <br/> **HEADERS** <br/> <br/>                       |
 | `# header1`                            | Header Level 1                         |
 | `## header2`                           | Header Level 2                         |
 | `### header3`                          | Header Level 3                         |
 | `#### header4`                         | Header Level 4                         |
 | `##### header5`                        | Header Level 5                         |
 | `###### header6`                       | Header Level 6                         |
-|                                    **Lines**                                    |
+|                              <br/> **LINES** <br/> <br/>                        |
 | `***` <br/> `---` <br/> `___`          | Makes a horizontal line.               |
 
 <br/>
@@ -295,7 +308,7 @@ syntax.
 | Homebrew Command                       | Description                            |
 |----------------------------------------|----------------------------------------|
 | `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` | Installs homebrew.                                                                         |
-|                                   **PACKAGES**                                  |
+|                             <br/> **PACKAGES** <br/> <br/>                      |
 | `brew install nvm`                     | Homebrew installs nvm package.         |
 | `brew install pyenv`                   | Homebrew installs pyenv package.       |
 | `brew install sqlite`                  | Homebrew installs sqlite package.      |
@@ -309,7 +322,7 @@ syntax.
 | Python Command                         | Description                            |
 |----------------------------------------|----------------------------------------|
 | `python3 -m venv "name of venv"`       | Create virtual environment.            |
-|                                     **PIP**                                     |
+|                               <br/> **PIP** <br/> <br/>                         |
 | `pip3 list`                            | List all pip3 packages.                |
 
 
