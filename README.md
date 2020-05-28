@@ -114,12 +114,28 @@ syntax.
 
 | Syntax                                 | Description                            |
 |----------------------------------------|----------------------------------------|
+|                      <br/> **INITIALIZE REPOSITORY** <br/> <br>                 |      
+| `git clone "url"`                      | Clone an already created repository.   |
 | `git init`                             | Initialize a git repository.           |
-| `git clone <url>`                      | Clone a repository.                    |
-| `git commit -m "some-commit-message"`  | Commit your changes with a message.    |
-| `git pull`                             | Pull from a repo.                      |
-| `git push "repo-name" "branch-name"`   | Push your changes to a repo.           |
+|                           <br/> **LOCAL CHANGES** <br/> <br>                    |            
+| `git add .`                            | Adds all changes to the commit.        |
+| `git add "file"`                       | Add specified file's changes to commit.|
+| `git commit -m "some-commit-message"`  | Commit staged changes with a message.  |
+|                             <br/> **HISTORY** <br/> <br>                        |            
+| `git blame "filename"`                 | Shows changes made by a person.        |
+| `git log`                              | Shows all commits.                     |
+|                             <br/> **UPDATES** <br/> <br>                        |            
+| `git pull`                             | Fetches and merges into local branch.  |
+| `git push origin "branch-name"`        | Push your changes to a repo.           |
 | `git remote show origin`               | Shows the url of the cloned repository.|
+| `git rm "filename"`                    | Remove a file from a repository.       |
+| `git rm -f "filename"`                 | Force delete a file.                   |
+| `git rm -r "foldername"`               | Recursively delete a directory.        |
+|                             <br/> **BRANCHES** <br/> <br>                       |            
+| `git branch`                           | Outputs current branch.                |
+| `git branch -av`                       | Outputs all branches.                  |
+|                               <br/> **USER** <br/> <br>                         |            
+| `git config --global user.email "mail"`| Set your email address in git.         |
 
 <br/>
 <br/>
@@ -232,7 +248,6 @@ syntax.
 
 <div align ="right"> <b><a href="#table-of-contents">⬆️ Back To Top</a></b></div>
 
-
 <!-- | `***`  <br/> `---` <br/> `___`         | Makes a horizontal line.               | -->
 <!-- 
 | `# header1` <br/> `## header2` <br/> `### header3` <br/> `#### header4` <br/> `##### header5` <br/> `###### header6` | Header Level 1 <br/> Header Level 2 <br/> Header Level 3 <br/> Header Level 4 <br/> Header Level 5 <br/> Header Level 6     | -->
@@ -286,20 +301,32 @@ syntax.
 
 | Command                                | Description                            |
 |----------------------------------------|----------------------------------------|
-| `cd` <br/> `cd ~` <br/> `cd ~/`        | Brings you to home directory.          |
-| `cd "path/to/directory/"`              | Brings you to a specified directory.   |
-| `chmod 777 "directory/path"`           | Grants RWX permissions to all users.   |
-| `chmod 755 "directory/path"`           | Grants R-X permissions to group and others.|
+|                             <br/> **GENERAL** <br/> <br/>                       |
 | `clear`                                | Clears your terminal.                  |
-| `echo "your string"`                   | Repeat the input.                      |
-| `ls` <br/> `ls "path/to/directory/"`   | List current directory.                |
+| `curl -O "file-url`                    | Download file from a given url         |
+| `kill "pid"`                           | Kills the process with given id.       |
+| `top`                                  | Shows all running processes.           |
+|                           <br/> **DIRECTORIES** <br/> <br/>                     |
+| `cd` <br/> `cd ~` <br/> `cd ~/`        | Brings you to home directory.          |
+| `cd ..`                                | Brings you to parent directory.        |
+| `cd "path/to/directory/"`              | Brings you to a specified directory.   |
+| `ls`                                   | List current directory.                |
 | `ls -a`                                | Show all files including hidden ones.  |
 | `ls -l`                                | Show all files and their permissions.  |
+| `ls "path/to/directory/"`              | List path directory.                   |
 | `mkdir "path/to/new/directory"`        | Make a directory.                      |
+|                              <br/> **FILES** <br/> <br/>                        |
+| `echo "your string" >> "filename"`     | Create a file with the input in it.    |
 | `mv "filename" "path/to/new/location"` | Move a file.                           |
 | `mv "filename" "newfilename"`          | Rename a file.                         |
 | `open "filename"`                      | Open a file.                           |
+| `rm "filename"`                        | Delete a file.                         |
+| `rm -f "filename"`                     | Force delete a file.                   |
+| `rm -r "directory"`                    | Recursively delete a directory.        |
 | `touch "filename.filetype"`            | Make a file.                           |
+|                           <br/> **PERMISSIONS** <br/> <br/>                     |
+| `chmod 777 "directory/path"`           | Changes file permissions to 777.       |
+| `chmod 755 "directory/path"`           | Changes file permissions to 755.       |
 
 <br/>
 <br/>
