@@ -255,7 +255,7 @@ syntax.
 
 | Node Version Manager (NVM) Command     | Description                            |
 |----------------------------------------|----------------------------------------|
-| `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash` | Installs NVM. |
+| `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh `\|` bash` | Installs NVM. |
 | `nvm install node`                     | Installs latest nodeJS version.        |
 | `nvm ls`                               | Shows all installed node versions.     |
 | `nvm ls-remote`                        | Shows all available node lts versions. |
