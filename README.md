@@ -1,5 +1,8 @@
 <!-- ****************************************************************************************************************** -->
 
+![](https://img.shields.io/github/contributors/bryare/syntacticum?color=light-green)
+[![HitCount](http://hits.dwyl.com/BryAre/Syntacticum.svg)](http://hits.dwyl.com/BryAre/Syntacticum)
+
 
 # **Project Syntacticum** #
 
@@ -37,6 +40,7 @@ syntax.
 
 
 ### Contributing Guidelines
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 * Add only one definition in one pull request.
 * Pull request title format includes: [Syntax Name] -> [Section]
     * Example: [For Loop] -> [Java]
@@ -268,6 +272,28 @@ syntax.
 <br/>
 <br/>
 
+| Node Package Manager (NPM) Command     | Description                            |
+|----------------------------------------|----------------------------------------|
+| `npx create-react-app "app-name"`      | Creates a react app with given name.   |
+| `npm init react-app "app-name"`        | Creates a react app with given name.   |
+| `npm start` <br/> `npm run start`      | Runs the app in development mode.      |
+| `npm run deploy`                       | Create build directory for production. |
+|                             <br/> **PACKAGES** <br/> <br/>                      |
+| `npm install  @iconify/react`          | NPM installs iconify/react package.    |
+| `npm install  @iconify/icons-logos`    | NPM installs iconify/icons-logos pkg.  |
+| `npm install bootstrap`                | NPM installs bootstrap package.        |
+| `npm install browser-router`           | NPM installs browser router package.   |
+| `npm install electron`                 | NPM installs electron package.         |
+| `npm install node-sass`                | NPM installs node-sass package.        |
+| `npm install react-bootstrap`          | NPM installs react-bootstrap package.  |
+| `npm install webfontloader`            | NPM installs webfont loader package.   |
+| `npm install gh-pages`                 | NPM installs github pages package.     |
+
+
+<br/>
+<br/>
+<br/>
+
 | Node Version Manager (NVM) Command     | Description                            |
 |----------------------------------------|----------------------------------------|
 | `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh `\|` bash` | Installs NVM. |
@@ -316,7 +342,8 @@ syntax.
 | `ls "path/to/directory/"`              | List path directory.                   |
 | `mkdir "path/to/new/directory"`        | Make a directory.                      |
 |                              <br/> **FILES** <br/> <br/>                        |
-| `echo "your string" >> "filename"`     | Create a file with the input in it.    |
+| `cat "filename"`                       | Show output of the file.               |
+| `echo "your string" >> "filename"`     | Input string into the file.            |
 | `mv "filename" "path/to/new/location"` | Move a file.                           |
 | `mv "filename" "newfilename"`          | Rename a file.                         |
 | `open "filename"`                      | Open a file.                           |
@@ -338,6 +365,7 @@ syntax.
 |                             <br/> **PACKAGES** <br/> <br/>                      |
 | `brew install nvm`                     | Homebrew installs nvm package.         |
 | `brew install pyenv`                   | Homebrew installs pyenv package.       |
+| `brew install rbenv`                   | Homebrew installs rbenv package.       |
 | `brew install sqlite`                  | Homebrew installs sqlite package.      |
 | `brew install tree `                   | Homebrew installs tree package.        |
 | `brew install zlib`                    | Homebrew installs zlib package.        |
@@ -349,8 +377,18 @@ syntax.
 | Python Command                         | Description                            |
 |----------------------------------------|----------------------------------------|
 | `python3 -m venv "name of venv"`       | Create virtual environment.            |
+| `python3 -v`                           | Displays the current version of python.|
 |                               <br/> **PIP** <br/> <br/>                         |
 | `pip3 list`                            | List all pip3 packages.                |
+
+| Ruby Command                           | Description                            |
+|----------------------------------------|----------------------------------------|
+| `ruby -v`                              | Displays the current version of ruby.  |
+|                               <br/> **RBENV** <br/> <br/>                       |
+| `rbenv init`                           | Initialize rbenv.                      |
+| `rbenv install 2.x.x`                  | Installs a given version of ruby.      |
+| `rbenv global 2.x.x`                   | Sets shell default ruby version.       |
+
 
 
 <br/>
