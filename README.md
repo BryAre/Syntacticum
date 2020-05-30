@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/contributors/bryare/syntacticum?color=light-green)
 [![HitCount](http://hits.dwyl.com/BryAre/Syntacticum.svg)](http://hits.dwyl.com/BryAre/Syntacticum)
-
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 # **Project Syntacticum** #
 
@@ -40,7 +40,6 @@ syntax.
 
 
 ### Contributing Guidelines
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 * Add only one definition in one pull request.
 * Pull request title format includes: [Syntax Name] -> [Section]
     * Example: [For Loop] -> [Java]
