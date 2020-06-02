@@ -278,13 +278,14 @@ syntax.
 | `npm start` <br/> `npm run start`      | Runs the app in development mode.      |
 | `npm run deploy`                       | Create build directory for production. |
 |                             <br/> **PACKAGES** <br/> <br/>                      |
-| `npm install  @iconify/react`          | NPM installs iconify/react package.    |
-| `npm install  @iconify/icons-logos`    | NPM installs iconify/icons-logos pkg.  |
+| `npm install @iconify/react`           | NPM installs iconify/react package.    |
+| `npm install @iconify/icons-logos`     | NPM installs iconify/icons-logos pkg.  |
 | `npm install bootstrap`                | NPM installs bootstrap package.        |
 | `npm install browser-router`           | NPM installs browser router package.   |
 | `npm install electron`                 | NPM installs electron package.         |
 | `npm install node-sass`                | NPM installs node-sass package.        |
 | `npm install react-bootstrap`          | NPM installs react-bootstrap package.  |
+| `npm install react-anime`              | NPM installs anime package.            |
 | `npm install webfontloader`            | NPM installs webfont loader package.   |
 | `npm install gh-pages`                 | NPM installs github pages package.     |
 
