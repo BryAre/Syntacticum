@@ -4,6 +4,10 @@
 [![HitCount](http://hits.dwyl.com/BryAre/Syntacticum.svg)](http://hits.dwyl.com/BryAre/Syntacticum)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
+___
+
+![BryAre](https://img.shields.io/badge/BryAre-made%20with%20%F0%9F%92%96-brightgreen)
+
 # **Project Syntacticum** #
 
 
