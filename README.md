@@ -132,6 +132,7 @@ syntax.
 |                             <br/> **HISTORY** <br/> <br>                        |            
 | `git blame "filename"`                 | Shows changes made by a person.        |
 | `git log`                              | Shows all commits.                     |
+| `git log --online`                     | Shows all commits in line format.      |
 | `git diff`                             | Shows diff between work and stage.     |
 |                             <br/> **UPDATES** <br/> <br>                        |            
 | `git pull`                             | Fetches and merges into local branch.  |
@@ -144,7 +145,7 @@ syntax.
 | `git branch`                           | Outputs current branch.                |
 | `git branch -av`                       | Outputs all branches.                  |
 |                               <br/> **USER** <br/> <br>                         |            
-| `git config --global user.email "mail"`| Set your email address in git.         |
+| `git config --global user.email "mail"`| Set your email address in git.       
 
 <br/>
 <br/>
