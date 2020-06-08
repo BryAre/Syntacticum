@@ -128,9 +128,11 @@ syntax.
 | `git add .`                            | Adds all changes to the commit.        |
 | `git add "file"`                       | Add specified file's changes to commit.|
 | `git commit -m "some-commit-message"`  | Commit staged changes with a message.  |
+| `git status -s`                        | Show status of files in staging area.  |
 |                             <br/> **HISTORY** <br/> <br>                        |            
 | `git blame "filename"`                 | Shows changes made by a person.        |
 | `git log`                              | Shows all commits.                     |
+| `git diff`                             | Shows diff between work and stage.     |
 |                             <br/> **UPDATES** <br/> <br>                        |            
 | `git pull`                             | Fetches and merges into local branch.  |
 | `git push origin "branch-name"`        | Push your changes to a repo.           |
