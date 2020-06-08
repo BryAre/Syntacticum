@@ -333,9 +333,11 @@ syntax.
 |----------------------------------------|----------------------------------------|
 |                             <br/> **GENERAL** <br/> <br/>                       |
 | `clear`                                | Clears your terminal.                  |
-| `curl -O "file-url"`                    | Download file from a given url        |
+| `curl -O "file-url"`                   | Download file from a given url         |
 | `kill "pid"`                           | Kills the process with given id.       |
 | `top`                                  | Shows all running processes.           |
+| `k1 | k2`                              | Enters k1's output into k2's input     |
+| `command&`                             | Background process.                    |
 |                           <br/> **DIRECTORIES** <br/> <br/>                     |
 | `cd` <br/> `cd ~` <br/> `cd ~/`        | Brings you to home directory.          |
 | `cd ..`                                | Brings you to parent directory.        |
@@ -347,7 +349,10 @@ syntax.
 | `mkdir "path/to/new/directory"`        | Make a directory.                      |
 |                              <br/> **FILES** <br/> <br/>                        |
 | `cat "filename"`                       | Show output of the file.               |
+| `cat "filename | wc"`                  | Shows line, words, and characters.     |
 | `echo "your string" >> "filename"`     | Input string into the file.            |
+| `grep keyword filename`                | Outputs occurences of keyword in file. |
+| `grep -n keyword filename`             | Outputs occurences in file with line #.|
 | `mv "filename" "path/to/new/location"` | Move a file.                           |
 | `mv "filename" "newfilename"`          | Rename a file.                         |
 | `open "filename"`                      | Open a file.                           |
