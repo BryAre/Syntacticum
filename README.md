@@ -144,6 +144,7 @@ syntax.
 |                             <br/> **BRANCHES** <br/> <br>                       |            
 | `git branch`                           | Outputs current branch.                |
 | `git branch -av`                       | Outputs all branches.                  |
+| `git branch -d "branch-name"`          | Delete selected branch.                |
 |                               <br/> **USER** <br/> <br>                         |            
 | `git config --global user.email "mail"`| Set your email address in git.       
 
