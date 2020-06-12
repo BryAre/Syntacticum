@@ -243,6 +243,7 @@ syntax.
 | Command                                | Description                            |
 |----------------------------------------|----------------------------------------|
 | `let var = datatype`                   | Creates a variable available in scrope declared only. |
+| `const var = datatype`                 | Creates a variable that cannot be modified. |
 
 <br/>
 <br/>
