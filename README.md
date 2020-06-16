@@ -245,6 +245,7 @@ syntax.
 | `let var = datatype`                   | Creates a variable available in scrope declared only. |
 | `const var = datatype`                 | Creates a variable that cannot be modified. |
 | `var var = datatype`                   | Creates a variable that can be overwritten and used anywhere. |
+| `let x = ['a', 'b','c']`               | Makes an array in the given scope.     |
 
 <br/>
 <br/>
